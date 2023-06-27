@@ -24,4 +24,4 @@ services:
       - WORDPRESS_DB_PASSWORD=wordpress
       - WORDPRESS_DB_NAME=wordpress
 volumes:
-  db_data:13.127.122.201
+  db_data:
